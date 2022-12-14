@@ -12,11 +12,19 @@ html {
   font: 62.5% / 1.15 sans-serif;
 }
 h1{
-  color: #228bec;
+  color: #e8858e;
+  font-size: 80px;
+  
 }
+.t-stroke-shadow {
+  color: #228bec;
+  text-shadow: -3px 3px #ffffff, -3px -3px #ffffff, 3px -3px #ffffff, 3px 3px #f3f3f2, 6px 6px #03864f;
+}
+
 h2 {
   margin-bottom: 0;
   color: #228bec;
+  
  
 }
 ul {
